@@ -5,6 +5,8 @@
 
 - 📫 How to reach me *oliveirajpdev@gmail.com*
 
+- 🎭 Horror movies lover 
+
 
 ##
 <h3 align="left">Languages and Tools:</h3>
