@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
+
 ##
 <p><img height ="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliveiraajp&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="oliveiraajp" /></p>
 
