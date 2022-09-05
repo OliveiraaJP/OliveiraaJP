@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML / CSS / JavaScript**
 
-- 📫 How to reach me **oliveirajpufrj@gmail.com**
+- 📫 How to reach me **oliveirajpdev@gmail.com*
 
 
 ##
