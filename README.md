@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Paulo Oliveira</h1>
 <h3 align="center">Studying to become a fullstack developer.</h3>
 
-- 🌱 I’m currently learning **HTML / CSS / JavaScript**
+- 🌱 I’m currently studying **POO**
 
 - 📫 How to reach me *oliveirajpdev@gmail.com*
 
