@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Paulo Oliveira</h1>
 <h3 align="center">Studying to become a fullstack developer.</h3>
+<img src="https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif"/>
+<br>
 
 - 🌱 I’m currently studying **POO**
 
