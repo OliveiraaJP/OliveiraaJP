@@ -30,8 +30,15 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
-
-##
+<br>
 <p><img height ="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliveiraajp&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="oliveiraajp" /></p>
 
 <p>&nbsp;<img height ="150" align="center" src="https://github-readme-stats.vercel.app/api?username=oliveiraajp&theme=tokyonight&show_icons=true&locale=en" alt="oliveiraajp" /></p>
+
+##
+<h2>📫 Connect with me: </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/oliveiraa-jp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:oliveirajpdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+
