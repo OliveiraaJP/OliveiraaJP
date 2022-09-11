@@ -5,7 +5,9 @@
  </div>
 <br>
 
-- 🌱 I’m currently studying **POO**
+- ♂️ Pronouns: he/him
+
+- 🌱 I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.
 
 - 📫 How to reach me *oliveirajpdev@gmail.com*
 
