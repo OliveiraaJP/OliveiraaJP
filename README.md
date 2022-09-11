@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *oliveirajpdev@gmail.com*
 
-- 🎭 Horror movies lover 
+- 🎭 Addicted to horror & animation movies
 
 
 ##
