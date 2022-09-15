@@ -7,7 +7,7 @@
 
 - ♂️ Pronouns: he/him
 
-- 🌱 I'm a Full-Stack Web Developer, i'm part of T5 at Driven Education.
+- 🌱 I'm a Full-Stack Web Developer
 
 - 📫 How to reach me *oliveirajpdev@gmail.com*
 
@@ -39,6 +39,5 @@
 <h2>📫 Connect with me: </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/oliveiraa-jp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:oliveirajpdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
