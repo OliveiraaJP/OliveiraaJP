@@ -22,6 +22,9 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+ <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -31,11 +34,7 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <br>
-<div align="center"
-<p><img height ="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliveiraajp&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="oliveiraajp" /></p>
 
-<p>&nbsp;<img height ="150" align="center" src="https://github-readme-stats.vercel.app/api?username=oliveiraajp&theme=tokyonight&show_icons=true&locale=en" alt="oliveiraajp" /></p>
-</div>
 <h2>📫 Connect with me: </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/oliveiraa-jp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
